@@ -1,5 +1,5 @@
 # MMPD_Outlet
-See the website here: 
+
 This project is a web-based shopping system. Online shopping is the process 
 whereby user directly buy a product from a seller in real-time without an 
 intermediary service over the Internet. It is a form of electronic commerce. This 
